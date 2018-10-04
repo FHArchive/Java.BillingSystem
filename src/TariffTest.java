@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  * @date 04/10/2018
- * @author b7005951
+ * @author FredHappyface
  *
  */
 public class TariffTest {
