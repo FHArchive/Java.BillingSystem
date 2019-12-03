@@ -11,8 +11,6 @@
 
 # Java.BillingSystem
 
-<img src="readme-assets/icons/proj-icon.png" alt="Project Icon" width="100">
-
 A rudimentary mobile contract billing system written in Java in Stage 1
 
 ## Download
@@ -78,11 +76,3 @@ Runner, Maven Project Explorer, and Java Dependency Viewer
 3. Copy the .java file(s) into a new project
 4. Run the program with Ctrl+F11
 
-## Screenshots
-
-### Desktop
-|Screenshots                                                                                  |
-|:-:                                                                                          |
-|<img src="readme-assets/screenshots/desktop/screenshot-1.png" alt="Screenshot 1" width="600">|
-|<img src="readme-assets/screenshots/desktop/screenshot-2.png" alt="Screenshot 2" width="600">|
-|<img src="readme-assets/screenshots/desktop/screenshot-3.png" alt="Screenshot 3" width="600">|
