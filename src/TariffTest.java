@@ -9,8 +9,8 @@ public class TariffTest {
 
 	public static void main(String[] args) {
 		// Prints information and instructions
-		System.out.println("Tarrif 1:\n" + "rate: £20\n" + "mins: 200\n" + "texts: 150\n" + "Tarrif 2:\n"
-				+ "rate: £35\n" + "mins: 400\n" + "texts: 350\n");
+		System.out.println("Tarrif 1:\n" + "rate: Â£20\n" + "mins: 200\n" + "texts: 150\n" + "Tarrif 2:\n"
+				+ "rate: Â£35\n" + "mins: 400\n" + "texts: 350\n");
 		System.out.println("Would you like to use tarrif 1 or tarrif 2? (Input '1' or '2')");
 		// Allows the user to input an integer
 		Scanner rawInput = new Scanner(System.in);
